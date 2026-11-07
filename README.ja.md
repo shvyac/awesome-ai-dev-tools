@@ -22,6 +22,7 @@ AI を活用した開発者向けツールのキュレーションリスト。�
 - [CodeRabbit](https://www.coderabbit.ai/) - プルリクエスト向け AI コードレビュー。トリアージ、要約、セキュリティチェックに対応し、GitHub / GitLab で利用可能。 *(クローズドソース)*
 - [Git Tower](https://www.git-tower.com/) - Mac / Windows 向けの高機能 Git クライアント。 *(クローズドソース)*
 - [Cursor](https://cursor.com/) - AI コーディングエージェント / エディタ。デスクトップ・CLI・クラウドエージェントを提供。 *(クローズドソース)*
+- [agent-qa](https://vostride.com) - Web、Android、iOS 向けのオープンソース QA エージェント。永続的な memidex アプリメモリと、証拠に基づく自己改善を備える。 *(FSL-1.1-ALv2)*
 
 ---
 

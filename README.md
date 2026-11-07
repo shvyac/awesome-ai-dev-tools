@@ -22,6 +22,7 @@ A curated list of AI-powered developer tools: terminals and networking, coding a
 - [CodeRabbit](https://www.coderabbit.ai/) - AI code review for pull requests: triage, summaries, security checks; works with GitHub and GitLab. *(closed source)*
 - [Git Tower](https://www.git-tower.com/) - Powerful Git client for Mac and Windows. *(closed source)*
 - [Cursor](https://cursor.com/) - AI coding agent and editor with desktop, CLI, and cloud agents. *(closed source)*
+- [agent-qa](https://vostride.com) - Open source QA agent for web, Android and iOS with persistent memidex app memory and evidence-gated self-improvement. *(FSL-1.1-ALv2)*
 
 ---
 
